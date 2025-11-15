@@ -1,3 +1,26 @@
+# [2.1.0](https://github.com/JustSxm/kaneo/compare/v2.0.3...v2.1.0) (2025-11-15)
+
+
+### Bug Fixes
+
+* Fix bug where if you have two projects (one brand new) it copies over the values from the other proejct ([7ad6c5a](https://github.com/JustSxm/kaneo/commit/7ad6c5aac7c1578db53a51afe5ae9d17ec75ef6c))
+* lint issue ([7fe92da](https://github.com/JustSxm/kaneo/commit/7fe92da8468dbc8f2224cc9eff4bd1c2647904db))
+
+
+### Features
+
+* add branding toggle functionality for github integrations ([ebe24c1](https://github.com/JustSxm/kaneo/commit/ebe24c1ab7c9b6be454df2ec957631756d626f30))
+* add comment template to GitHub integration ([2b115a2](https://github.com/JustSxm/kaneo/commit/2b115a2926a31e41810e0f2a4c5379937db6d48f))
+* **email:** Add option to enable RequireTLS ([#630](https://github.com/JustSxm/kaneo/issues/630)) ([c99f6bc](https://github.com/JustSxm/kaneo/commit/c99f6bc5bc678fb48d5368f526d17270d2258b0d))
+* **github:** add title and description templates to github integration schema ([d4594bf](https://github.com/JustSxm/kaneo/commit/d4594bfb1d52a72e3c781fe03faa6b95e82f44f8))
+* **github:** add title and description templates to GitHub integration settings ([f4fb561](https://github.com/JustSxm/kaneo/commit/f4fb561b66efc6dd0f118aa37c2d6848153dbeb4))
+* **github:** remove KANEO_DISABLE_BRANDING and use templates ([153a42c](https://github.com/JustSxm/kaneo/commit/153a42ce5cb0a5b4d91b0681060af31f13ecf1a1))
+* **github:** save commentTemplate ([9b2d31c](https://github.com/JustSxm/kaneo/commit/9b2d31cfd7194750725011d37befc9a06d15998a))
+* **github:** update titleTemplate and descriptionTemplate types to allow null values ([0b7f056](https://github.com/JustSxm/kaneo/commit/0b7f0564fc4e0fb1391de2d5024039b4c4c1b8d1))
+* **task:** add linked_issue_id column and update task creation logic for GitHub integration ([0d4c058](https://github.com/JustSxm/kaneo/commit/0d4c0583da829f6e999caa7d5d2104cad5dba89d))
+
+
+
 ## [2.0.3](https://github.com/usekaneo/kaneo/compare/v2.0.2...v2.0.3) (2025-11-05)
 
 
